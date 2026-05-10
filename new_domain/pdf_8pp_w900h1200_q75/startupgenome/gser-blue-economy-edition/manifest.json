@@ -1,0 +1,132 @@
+{
+  "pdf_path": "/Users/tangjiahui/Desktop/chartbench/new_domain_eval/new_domain/startupgenome/src_pdf/gser-blue-economy-edition.pdf",
+  "pdf_mtime_ns": 1775700918000000000,
+  "pdf_size": 39766187,
+  "pages_per_image": 8,
+  "dpi": 120,
+  "page_thumbnail_width": 900,
+  "page_thumbnail_height": 1200,
+  "jpeg_quality": 75,
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "start_page": 1,
+      "end_page": 8,
+      "file": "chunk_001_pages_0001-0008.jpg"
+    },
+    {
+      "chunk_index": 1,
+      "start_page": 9,
+      "end_page": 16,
+      "file": "chunk_002_pages_0009-0016.jpg"
+    },
+    {
+      "chunk_index": 2,
+      "start_page": 17,
+      "end_page": 24,
+      "file": "chunk_003_pages_0017-0024.jpg"
+    },
+    {
+      "chunk_index": 3,
+      "start_page": 25,
+      "end_page": 32,
+      "file": "chunk_004_pages_0025-0032.jpg"
+    },
+    {
+      "chunk_index": 4,
+      "start_page": 33,
+      "end_page": 40,
+      "file": "chunk_005_pages_0033-0040.jpg"
+    },
+    {
+      "chunk_index": 5,
+      "start_page": 41,
+      "end_page": 48,
+      "file": "chunk_006_pages_0041-0048.jpg"
+    },
+    {
+      "chunk_index": 6,
+      "start_page": 49,
+      "end_page": 56,
+      "file": "chunk_007_pages_0049-0056.jpg"
+    },
+    {
+      "chunk_index": 7,
+      "start_page": 57,
+      "end_page": 64,
+      "file": "chunk_008_pages_0057-0064.jpg"
+    },
+    {
+      "chunk_index": 8,
+      "start_page": 65,
+      "end_page": 72,
+      "file": "chunk_009_pages_0065-0072.jpg"
+    },
+    {
+      "chunk_index": 9,
+      "start_page": 73,
+      "end_page": 80,
+      "file": "chunk_010_pages_0073-0080.jpg"
+    },
+    {
+      "chunk_index": 10,
+      "start_page": 81,
+      "end_page": 88,
+      "file": "chunk_011_pages_0081-0088.jpg"
+    },
+    {
+      "chunk_index": 11,
+      "start_page": 89,
+      "end_page": 96,
+      "file": "chunk_012_pages_0089-0096.jpg"
+    },
+    {
+      "chunk_index": 12,
+      "start_page": 97,
+      "end_page": 104,
+      "file": "chunk_013_pages_0097-0104.jpg"
+    },
+    {
+      "chunk_index": 13,
+      "start_page": 105,
+      "end_page": 112,
+      "file": "chunk_014_pages_0105-0112.jpg"
+    },
+    {
+      "chunk_index": 14,
+      "start_page": 113,
+      "end_page": 120,
+      "file": "chunk_015_pages_0113-0120.jpg"
+    },
+    {
+      "chunk_index": 15,
+      "start_page": 121,
+      "end_page": 128,
+      "file": "chunk_016_pages_0121-0128.jpg"
+    },
+    {
+      "chunk_index": 16,
+      "start_page": 129,
+      "end_page": 136,
+      "file": "chunk_017_pages_0129-0136.jpg"
+    },
+    {
+      "chunk_index": 17,
+      "start_page": 137,
+      "end_page": 144,
+      "file": "chunk_018_pages_0137-0144.jpg"
+    },
+    {
+      "chunk_index": 18,
+      "start_page": 145,
+      "end_page": 152,
+      "file": "chunk_019_pages_0145-0152.jpg"
+    },
+    {
+      "chunk_index": 19,
+      "start_page": 153,
+      "end_page": 155,
+      "file": "chunk_020_pages_0153-0155.jpg"
+    }
+  ]
+}
